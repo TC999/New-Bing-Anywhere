@@ -25,6 +25,10 @@
 
 ## Большинство людей решают свои проблемы с помощью следующих быстрых исправлений:
 
+<img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/343190af-95ce-4615-affe-46100e6eb6c8" width=120 align="right">
+<img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/b241ba84-a528-470f-8512-67eb26e9f18f" width=120 align="right">
+<img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/8472f9bc-a5b5-4f3e-a676-f8cda33a8232" alt="TJw762hu2u4cT9PJbc1eqaqgyHQGe3FgRv" width=120 align="right">
+
 - [Часто задаваемые вопросы Frequently Asked Questions 常见问题自查手册 (FAQ) #8](https://github.com/ha0z1/New-Bing-Anywhere/issues/8).
 - Изменить учетную запись Майкрософт.
 - Внесите bing.com в белый список, если вы используете блокировщик рекламы или VPN.

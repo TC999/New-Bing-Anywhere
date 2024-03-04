@@ -55,7 +55,9 @@ update 2023.7.6: Hong Kong IP doesn’t work either
 
 Maintaining software is not easy. You can support the author in the following ways:
 
-<img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/343190af-95ce-4615-affe-46100e6eb6c8" width=120 align="right"> <img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/b241ba84-a528-470f-8512-67eb26e9f18f" width=120 align="right">
+<img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/343190af-95ce-4615-affe-46100e6eb6c8" width=120 align="right">
+<img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/b241ba84-a528-470f-8512-67eb26e9f18f" width=120 align="right">
+<img src="https://github.com/ha0z1/New-Bing-Anywhere/assets/4150641/8472f9bc-a5b5-4f3e-a676-f8cda33a8232" alt="TJw762hu2u4cT9PJbc1eqaqgyHQGe3FgRv" width=120 align="right">
 
 - Buy the author a coffee (you can add the author as a friend to get priority response to requests and acknowledgment in the credits list)
 - Give the software positive [ratings](https://chrome.google.com/webstore/detail/new-bing-anywhere-bing-ch/hceobhjokpdbogjkplmfjeomkeckkngi/reviews?hl=en) and stars on the app store
