@@ -72,6 +72,7 @@ Maintaining software is not easy. You can support the author in the following wa
 
 |                                         |          |            |
 | --------------------------------------- | -------- | ---------- |
+| \*法                                    | CNY 8.8  | 03/14/2024 |
 | A\*e                                    | CNY 20   | 02/27/2024 |
 | \*\* 张                                 | CNY 20   | 01/31/2024 |
 | \*\*霖                                  | CNY 0.01 | 01/24/2024 |
